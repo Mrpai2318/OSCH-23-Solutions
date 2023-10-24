@@ -6,11 +6,11 @@ To explore this magical & exciting world, you must learn to play around with GIT
 
 To get started, you are given some basic commands to set up GIT & GitHub on your local machine.
 
-``` git config --global user.name “\[firstname lastname\]” ​```
+``` git config --global user.name “firstname lastname” ​```
 
 - set a name that is identifiable for credit when reviewing version history. ​
     
-``` git config --global user.email “\[valid-email\]” ​```
+``` git config --global user.email "valid-email” ​```
 
 - Set an email address that will be associated with each history marker.
     
