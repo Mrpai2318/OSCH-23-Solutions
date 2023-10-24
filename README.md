@@ -8,5 +8,6 @@ Here are solutions to STAGE 1 & STAGE 2 of the **Open Source Cryptic Hunt** held
 Link to solve both the tasks:-
 
 Stage 1: https://drive.google.com/drive/folders/1vHol2_JwwR0CI9EiCNJ_YsYHk3gIFEay?usp=drive_link
+
 Stage 2: https://drive.google.com/drive/folders/1Y0Vp-sayCzh2Q0Ip7J7ge6GUUdgmAAmj?usp=sharing
 
