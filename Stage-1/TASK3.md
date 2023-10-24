@@ -35,5 +35,5 @@ So therefore the answer to TASK 3/password to TASK 4 is **8f23_3.2.3**
 
 
 
-[![ss](https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-1/_resources/TASK3.png)]
+![ss](https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-1/_resources/TASK3.png)
 
