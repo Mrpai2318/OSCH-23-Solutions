@@ -30,6 +30,6 @@ The solution to this is simple too; you just need to go to the repo and clone it
 
 Once you open the zip file you will get a .wav file, which is a Morse code audio if you run it on a Morse audio decoder like shown below you will get the final answer to this challenge.
 
-<img src="https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-1/_resources/caesarcipher.png" alt="morsewebsitedecode">
+<img src="https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-1/_resources/morsecode.png" alt="morsewebsitedecode">
 
 Task 6 answer: **MORSE CODE**
