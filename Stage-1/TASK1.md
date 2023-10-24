@@ -56,3 +56,10 @@ My fellow explorers solve the following riddles to move to task 2.
 
 My fellow explorers, to get the password for task 2, you will need to concatenate all the answers to the above riddles. Drop the spaces in between and put all of it in lowercase.
 
+# TASK 1 SOLUTION 
+
+* The answer to the first riddle is: **The ritual**
+* The answer to the second riddle is: **The weeknd**
+* The answer to the third riddle is: **The Big Bang theory**
+* The password to open **TASK-2** is **theritualtheweekndthebigbangtheory**
+
