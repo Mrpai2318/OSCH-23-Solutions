@@ -39,7 +39,9 @@ This challenge can be solved using other image editing tools, but for this chall
 The answer to this question/password to TASK-4 is: G!MP
 
 **BEFORE EDITING**
+
 ![dark mona before](:https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-1/_resources/dark_mona%20(1).png)
 
 **AFTER EDITING**
+
 ![dark mona after](:https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-1/_resources/darkmonaafter.png)
