@@ -40,8 +40,8 @@ The answer to this question/password to TASK-4 is: G!MP
 
 **BEFORE EDITING**
 
-<img src="/_resources/dark_mona (1).png" alt="darkmmonabefore">
+<img src="https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-1/_resources/dark_mona%20(1).png" alt="darkmmonabefore">
 
 **AFTER EDITING**
 
-<img src="/_resources/darkmonaafter.png" alt="darkmonaafter">
+<img src="https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-1/_resources/darkmonaafter.png" alt="darkmonaafter">
