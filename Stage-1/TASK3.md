@@ -26,7 +26,7 @@ Then the answer would be 1566_2.3.1
 
 h4ppy 501v1n9 =)
 
-![nunjucks.png](:)
+![nunjucks.png](https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-1/_resources/download.png)
 
 # Solution
 This problem was very simple for the people very well versed with git commands but we did provide with cheat sheet. Basically had to clone the repo on your system using ``` git clone https://github.com/mozilla/nunjucks.git```  and just ran the command ``` git show ```  this command shows the description and the whole commit data that is shown on the web in detail on terminal. Then we get commit id as **"ea0d6d5396d39d9eed1b864febb36fbeca908f23"** and the version as **"3.2.3"**
