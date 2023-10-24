@@ -15,7 +15,7 @@ Anyways, moving on below is a link to the classroom timetable of a computer scie
 https://t.ly/TI_bp
 
 
-<img src="[:/4307b6f094bc4442b177131a8a91de3d](https://i.ytimg.com/vi/vbb9MPYT23Y/maxresdefault.jpg)" width="703" height="393" style="margin-left: 0px; margin-top: 0px;">
+<img src="https://i.ytimg.com/vi/vbb9MPYT23Y/maxresdefault.jpg" width="703" height="393" style="margin-left: 0px; margin-top: 0px;">
 
 The string is the password to the next document (Task-3 doc). Use the string to unlock your doorway to Task 3!
 
