@@ -28,7 +28,9 @@ Link to the evidence: https://t.ly/FO9gp
 
 # Solution
 
-The solution to this was pretty stright forward where you had to keep tracking the suspects shop numbers and then which ever shop number execeded number 9 had to changed it to letters cause the suspect knew only hexadecimal. Few shops have been named and no number had been written that is why the evidence pdf is given which is password protected and the password given in the description of the file on google drive. 
+The solution to this was pretty straightforward: you had to keep tracking the suspect shop numbers and then whichever shop number exceeded number 9 had to change it to letters cause the suspect knew only hexadecimal. Few shops have been named, and no number has been written which is why the evidence pdf is given which is password protected, and the password is given in the description of the file on Google Drive.
+
+<img src="https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-2/_resources/drivess.png" alt="drivess"> 
 
 When you note down all the shop numbers you get **6 1 12 2 3 8 7 6 5 9 9 7 12 5 1 4 1 5 7 9**.
 
