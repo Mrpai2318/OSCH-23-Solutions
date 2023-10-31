@@ -26,7 +26,7 @@ PART 2:
 
 Bellow given is a street view of some random location on maps. Find latitude and longitude. (Hint it is in San Fransisco)
 
-<img src="" alt="streetviewimg">
+<img src="https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-2/_resources/streetview.png" alt="streetviewimg">
 
 The answer will be the latitude and longitude of a famous open-source company seen in the above street view. 
 
@@ -36,17 +36,17 @@ The final answer string is obtained when you concatenate all the digits above wi
 
 # Solution
 
-Solution to this is quite simple for PART 1 the riddle will give you a hint that it is SNOOP DOG and the answer is hidden in the binary number which is a link to techtatva website when decode. 
+The solution to this is quite simple for PART 1 the riddle will give you a hint that it is SNOOP DOG and the answer is hidden in the binary number which is a link to the TechTatva website when decoded. 
 
 **https://techtatva.manipal.edu/events-2023/4/**
 
-<img src="" alt="binarytotxtdecodess">
+<img src="https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-2/_resources/binarytotxt.png" alt="binarytotxtdecodess">
 
-The first set of digits you will get from the website which is actually 20/10/23 which is actually snoop dogs birthday and the first day of our open source cryptic hunt wow what a coincidence.
+The first set of digits you will get from the website **20/10/23** which is actually Snoop Dog's birthday and the first day of our open-source cryptic hunt. Wow, what a coincidence.
 
-Now Part 2 is actually simple if you zoom into the image you will find the logo of firefox which is made by mozilla and we had given hint to use google and find the exact geolocation so if you use google to find the exact geolocation you will get this:- 
+Now, Part 2 is actually simple if you zoom into the image you will find the logo of Firefox which is made by Mozilla we had given a hint to use Google and find the exact geolocation so if you use Google to find the exact geolocation you will get this:- 
 
-<img src="" alt="googless">
+<img src="https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-2/_resources/googless.png" alt="googless">
 
 **37.7870° N, 122.3996° W**
 
