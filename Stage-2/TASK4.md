@@ -13,11 +13,11 @@ The answer isn’t just plain text. It is a set of two float numbers.
 
 Here is a 9x9 QR Grid.
 
-<img src="" alt="qrgrid">
+<img src="https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-2/_resources/qrgrid.png" alt="qrgrid">
 
 # Solution
 
-This was the most difficult question of all. Each and every row of a qr grid gives us one word which relates to one word but it is not that simple every qr in the 9x9 grid has more and more qr's inside. After scanning all the qr's you will get 3 words given below.
+This was the most difficult question of all. Each and every row of a QR grid gives us one word, which relates to one word but it is not that simple. Every QR in the 9x9 grid has more and more QR's inside. After scanning all the QR's, you will get 3 words given below.
 
 QR ROW 1) 
 Goliath birdeater
@@ -36,9 +36,9 @@ platinum
 
 These 3 words are used on a website called [<ins>What3Words</ins>](https://what3words.com/).
 
-It is an uncoventional way of mapping if you use these 3 words there you will get a location which points towads the center of Student Palza.
+It is an unconventional way of mapping. If you use these 3 words, you will get a location that points toward the center of Student Plaza.
 
-<img src="" alt="what3words">
+<img src="https://github.com/Mrpai2318/OSCH-23-Solutions/blob/main/Stage-2/_resources/what3words.png" alt="what3words">
 
-The final asnwer was a set of 2 float number which are the coordinates of MIT Student Plaza:-
+The final answer was a set of 2 float numbers, which are the coordinates of MIT Student Plaza:-
 **13.347317297371275, 74.79331747778983**
